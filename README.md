@@ -1,4 +1,4 @@
-# Simple Chime Application
+# Simple Amazon Chime SDK Application
 ## Backend
 
 > Very simple video conference app using AWS Chime.
