@@ -17,7 +17,8 @@
   "dependencies": {
     "@fastify/autoload": "^5.0.0",
     "@fastify/sensible": "^5.0.0",
-    "aws-sdk": "^2.1224.0",
+    "aws-sdk": "^2.1291.0",
+    "dotenv": "^16.0.3",
     "fastify": "^4.0.0",
     "fastify-cli": "^5.4.2",
     "fastify-plugin": "^4.0.0"
